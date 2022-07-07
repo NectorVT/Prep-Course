@@ -1,0 +1,25 @@
+<style>
+            h1 {
+                color: #ff00ff;
+            }
+            img {
+                width: 400px;
+
+            }
+            #thirDiv {
+                height: 600px;
+                width: 500px;
+                background: red;
+                padding: 50px;
+                border: 5px solid black;
+
+            }
+            #spanid {
+                font-size: 18px;
+                margin: 50px;
+                
+            }
+
+
+
+</style>
